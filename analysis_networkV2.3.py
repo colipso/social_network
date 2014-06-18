@@ -4,6 +4,7 @@ Created on Mon Jun  2 15:36:37 2014
 
 @author: pj
 """
+#This is for github
 
 import networkx
 import triadic
